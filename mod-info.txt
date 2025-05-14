@@ -1,0 +1,3 @@
+name: lapis
+author: Pro13_YT
+depends: default, dye
